@@ -10,22 +10,22 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/CKH0',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/md',
+    link: 'https://facebook.com/ckckckck',
     label: 'Facebook',
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/ckwasd/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/owenchan',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
@@ -35,12 +35,12 @@ const data = [
     icon: faAngellist,
   },
   {
-    link: 'https://twitter.com/dangelosaurus',
+    link: 'https://twitter.com/ckwasd',
     label: 'Twitter',
     icon: faTwitter,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:contact@ckho.xyz',
     label: 'Email',
     icon: faEnvelope,
   },
